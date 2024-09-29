@@ -1,0 +1,7 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - 5511c716-712e-4d44-9e28-595e652e8a50: /Users/monawu/Desktop/SZA - Good Days (Audio).mp3
+    - 6530940f-1ef1-400e-a877-aca454597dd1: /Users/monawu/Desktop/Saweetie-Do it for the Bay.mp3
+    - dbcdfec1-62df-49b3-8f8d-80d6a767566c: /Users/monawu/Desktop/Redbone - Come and Get Your Love (Single Edit - Audio).mp3
+  options: 4
